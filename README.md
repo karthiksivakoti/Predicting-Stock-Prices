@@ -62,3 +62,6 @@ To use this project:
 1. Ensure you have all the necessary dependencies installed:
    ```bash
    pip install numpy pandas yfinance scikit-learn keras matplotlib
+2. Run this script and type in (when prompted) the stock symbol you want to predict:
+   ```bash
+   python stock_price_prediction.py
